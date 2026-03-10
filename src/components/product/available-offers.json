@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_product_available_offers",
+  "info": {
+    "displayName": "availableOffers",
+    "icon": "eye"
+  },
+  "options": {},
+  "attributes": {
+    "offerText": {
+      "type": "text"
+    },
+    "bankOffer": {
+      "type": "text"
+    },
+    "specialPrice": {
+      "type": "text"
+    },
+    "partnerOffer": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}

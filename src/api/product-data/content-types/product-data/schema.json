@@ -42,6 +42,24 @@
     },
     "sponsered": {
       "type": "boolean"
+    },
+    "seller": {
+      "type": "string"
+    },
+    "availableOffers": {
+      "type": "component",
+      "component": "product.available-offers",
+      "repeatable": true
+    },
+    "color": {
+      "type": "component",
+      "component": "color.color",
+      "repeatable": true
+    },
+    "highlights": {
+      "type": "component",
+      "component": "highlights.highlights",
+      "repeatable": true
     }
   }
 }
